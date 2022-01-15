@@ -7,9 +7,10 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Introduction
-its an intro part
+Its an intro part
 
 ## Deployment
-this is a deployment part
+This is a deployment part
 
 ## How to contribute
+Here is the contribution part in the local system
