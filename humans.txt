@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vaishnavi Laldinani vaishnavilaldinani@gmail.com
 
 # THANKS
 
