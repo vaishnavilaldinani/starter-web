@@ -14,6 +14,7 @@ This is a deployment part
 
 ## How to contribute
 Here is the contribution part in the local system
+Please fork this repository and then issue pull requests for review
 
 ## Copyright
 2022 Git.Training
